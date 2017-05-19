@@ -16,16 +16,17 @@ import java.util.Set;
 import java.util.concurrent.atomic.AtomicLong;
 
 /**
- * @author shanbiao.jsb
+ * author: shanbiao.jsb
+ * date: 2017/5/19.
  */
 @Component
-public class PVMonitor extends AbstractCmdProcessor implements AccessLoggerPersisting {
+public class CPUMonitor extends AbstractCmdProcessor implements AccessLoggerPersisting {
     private AtomicLong counter = new AtomicLong(0);
     private Set<String> userList = new HashSet<>();
 
     @Override
     public String getName() {
-        return "pv";
+        return "cpu";
     }
 
     @Override
@@ -48,16 +49,13 @@ public class PVMonitor extends AbstractCmdProcessor implements AccessLoggerPersi
                      */
                     Random random = new Random();
                     int num = random.nextInt(100);
-                    if(num<20){
-                        num=num+20;
-                    }
                     counter.addAndGet(num);
 
                     for (String userId : userList) {
                         WebSocketMessage message = new WebSocketMessage();
-                        message.setCallBack("pvGet");
+                        message.setCallBack("cpuGet");
                         message.setContent(counter.get());
-                        message.setType("pv");
+                        message.setType("cpu");
                         message.setTo(userId);
                         message.setFrom("system");
                         webSocketMessageManager.publish(message);

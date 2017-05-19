@@ -6,7 +6,7 @@ import org.hsweb.web.service.GenericService;
 import java.util.List;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 public interface TestService extends GenericService<TestPo, String> {
     List<TestPo> selectByName(String name);

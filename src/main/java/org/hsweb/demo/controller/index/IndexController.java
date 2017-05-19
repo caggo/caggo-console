@@ -9,7 +9,7 @@ import org.springframework.web.servlet.ModelAndView;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 @Controller
 public class IndexController {

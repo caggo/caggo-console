@@ -6,7 +6,7 @@ import javax.validation.constraints.NotNull;
 import java.util.Date;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 public class TestPo extends GenericPo<String> {
     @NotNull

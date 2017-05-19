@@ -4,7 +4,7 @@ import org.hsweb.demo.bean.test.TestPo;
 import org.hsweb.web.dao.GenericMapper;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  * @see org.hsweb.web.dao.GenericMapper
  */
 public interface TestDao extends GenericMapper<TestPo, String> {

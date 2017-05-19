@@ -25,27 +25,27 @@
 <div class="container">
     <div class="mini-clearfix ">
         <div class="mini-col-4">
-            <div class="mini-panel mini-panel-primary" title="待办事项" width="auto"
+            <div class="mini-panel mini-panel-primary" title="待解决问题" width="auto"
                  showCollapseButton="true" showCloseButton="false" style="height: 320px">
                 <table class="panel-table" style="width: 90%;margin: auto;">
                     <tbody>
                     <tr>
-                        <td width="200" valign="middle" style="word-break: break-all;">待办事项1</td>
-                        <td width="60" valign="middle" style="word-break: break-all;" align="right"><span>1</span>件</td>
+                        <td width="200" valign="middle" style="word-break: break-all;">等级1</td>
+                        <td width="60" valign="middle" style="word-break: break-all;" align="right"><span>2</span>件</td>
                     </tr>
                     <tr>
                         <td colspan="2" height="1" class="split"></td>
                     </tr>
                     <tr>
-                        <td width="200" valign="middle" style="word-break: break-all;">待办事项2</td>
-                        <td width="60" valign="middle" style="word-break: break-all;" align="right"><span>0</span>件</td>
+                        <td width="200" valign="middle" style="word-break: break-all;">等级2</td>
+                        <td width="60" valign="middle" style="word-break: break-all;" align="right"><span>5</span>件</td>
                     </tr>
                     </tbody>
                 </table>
             </div>
         </div>
         <div class="mini-col-8">
-            <div class="mini-panel mini-panel-primary" title="实时访问量" width="auto"
+            <div class="mini-panel mini-panel-primary" title="MQTT-server QPS" width="auto"
                  showCollapseButton="true" showCloseButton="false">
                 <div id="pv"></div>
             </div>
@@ -131,6 +131,7 @@
         xAxis: [
             {
                 type: "category",
+                name: "time",
                 boundaryGap: false,
                 data: [],
                 splitLine: {
@@ -141,7 +142,7 @@
         yAxis: [
             {
                 type: "value",
-                name: "次",
+                name: "request/sec",
                 position: "left",
                 splitLine: {
                     show: true
@@ -150,9 +151,9 @@
         ],
         series: [
             {
-                name: "访问量",
+                name: "QPS",
                 type: "line",
-                detail: {formatter: '次'},
+                detail: {formatter: 'request/sec'},
                 data: [],
                 smooth: true,
                 areaStyle: {

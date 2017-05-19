@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>hsweb 企业后台管理系统基础框架</title>
+    <title>设备故障管理系统</title>
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
 <@global.importMiniui/>
 <@global.importFontIcon/>
@@ -30,7 +30,7 @@
             <div class="header" style="background-color:rgb(1,104,183) " region="north" height="72" showSplit="false" splitSize="4" showHeader="false">
                 <div style="width:100%;height:70px; ">
                     <h1 style="margin:0;padding:18px;font-size: 30px; cursor:default;font-family:微软雅黑,黑体,宋体;color: white;">
-                        hsweb 企业后台管理系统
+                        设备故障管理系统
                     </h1>
                     <div class="top-menu" style="position:absolute;top:25px;right:10px;color: white;font-size: 15px;">
                         <a class="link" onclick=" window.onbeforeunload=function(){};window.location.reload()">

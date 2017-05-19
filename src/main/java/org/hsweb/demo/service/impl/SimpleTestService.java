@@ -12,7 +12,7 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 @Service("testService")
 public class SimpleTestService extends AbstractServiceImpl<TestPo, String> implements TestService {
