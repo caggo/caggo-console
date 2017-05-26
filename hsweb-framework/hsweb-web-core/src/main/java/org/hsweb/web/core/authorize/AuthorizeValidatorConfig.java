@@ -5,7 +5,7 @@ import org.hsweb.web.core.authorize.annotation.Authorize;
 import java.util.*;
 
 /**
- * Created by zhouhao on 16-4-28.
+ * Created by shanbiao.jsb on 17-4-28.
  */
 public interface AuthorizeValidatorConfig {
     AuthorizeValidatorConfig setModules(Set<String> modules);

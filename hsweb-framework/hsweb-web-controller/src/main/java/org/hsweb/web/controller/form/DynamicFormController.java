@@ -47,7 +47,7 @@ import java.util.Map;
  * 动态表单管理控制器,用于操作动态表单以及对表单数据的增删改查和excel导入导出
  * 将使用{@link org.hsweb.web.controller.DynamicFormAuthorizeValidator#validate(String, User, Map, String...)}进行权限验证
  *
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 @RestController
 @RequestMapping(value = "/dyn-form")

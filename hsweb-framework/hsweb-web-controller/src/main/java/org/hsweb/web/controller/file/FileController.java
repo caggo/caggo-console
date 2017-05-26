@@ -48,7 +48,7 @@ import java.util.regex.Pattern;
 /**
  * 文件管理控制器，用于上传和下载资源文件
  *
- * @author zhouhao
+ * @author shanbiao.jsb
  * @since 1.0
  */
 @RestController

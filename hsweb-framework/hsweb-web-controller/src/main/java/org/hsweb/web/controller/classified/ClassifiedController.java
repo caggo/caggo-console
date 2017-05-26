@@ -33,7 +33,7 @@ import javax.annotation.Resource;
 /**
  * 分类控制器,用于管理系统中各种分类
  *
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 @RestController
 @RequestMapping(value = "/classified")

@@ -26,7 +26,7 @@ import static org.hsweb.web.bean.po.template.Template.Property.using;
 import static org.hsweb.web.bean.po.template.Template.Property.version;
 
 /**
- * Created by zhouhao on 16-5-20.
+ * Created by shanbiao.jsb on 16-5-20.
  */
 @Service("templateService")
 public class TemplateServiceImpl extends AbstractServiceImpl<Template, String> implements TemplateService {

@@ -5,7 +5,7 @@ import org.hsweb.web.bean.po.draft.Draft;
 import java.util.List;
 
 /**
- * Created by zhouhao on 16-6-3.
+ * Created by shanbiao.jsb on 16-6-3.
  */
 public interface DraftService {
     String createDraft(String key, Draft draft);

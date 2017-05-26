@@ -5,7 +5,7 @@ import java.util.concurrent.locks.ReadWriteLock;
 
 /**
  * 锁工厂接口，通过此接口可创建锁和读写锁
- * Created by zhouhao on 16-4-27.
+ * Created by shanbiao.jsb on 17-4-27.
  */
 public interface LockFactory {
     /**

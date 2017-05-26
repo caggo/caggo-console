@@ -9,7 +9,7 @@ import java.util.*;
 import java.util.function.Function;
 
 /**
- * Created by zhouhao on 16-5-30.
+ * Created by shanbiao.jsb on 16-5-30.
  */
 public class SessionUtils {
     public static User getUser(WebSocketSession session, HttpSessionManager sessionManager) {

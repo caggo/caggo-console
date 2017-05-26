@@ -5,7 +5,7 @@ import org.hsweb.web.bean.po.GenericPo;
 
 /**
  * 用户配置文件
- * Created by zhouhao on 16-7-4.
+ * Created by shanbiao.jsb on 16-7-4.
  */
 public class UserProfile extends GenericPo<String> {
 

@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by zhouhao on 16-5-14.
+ * Created by shanbiao.jsb on 16-5-14.
  */
 @Alias("jsonArrayHandler")
 @MappedTypes({List.class})

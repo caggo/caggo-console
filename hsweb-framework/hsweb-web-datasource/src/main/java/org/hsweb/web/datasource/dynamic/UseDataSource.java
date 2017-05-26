@@ -8,7 +8,7 @@ import java.lang.annotation.*;
 /**
  * 通过注解，动态切换数据源。在动态数据源启用时才生效
  *
- * @author zhouhao
+ * @author shanbiao.jsb
  * @since 2.2
  */
 @Target({ElementType.TYPE, ElementType.METHOD})

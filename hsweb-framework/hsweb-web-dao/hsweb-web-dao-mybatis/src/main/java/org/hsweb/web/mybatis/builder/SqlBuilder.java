@@ -17,7 +17,7 @@
 package org.hsweb.web.mybatis.builder;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 public class SqlBuilder {
     private static boolean dynamic;

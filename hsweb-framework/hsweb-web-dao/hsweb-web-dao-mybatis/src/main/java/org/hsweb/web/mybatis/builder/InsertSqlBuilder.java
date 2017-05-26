@@ -8,7 +8,7 @@ import org.hsweb.ezorm.rdb.render.SqlAppender;
 import org.hsweb.ezorm.rdb.render.support.simple.SimpleInsertSqlRender;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 public class InsertSqlBuilder extends SimpleInsertSqlRender {
     @Override

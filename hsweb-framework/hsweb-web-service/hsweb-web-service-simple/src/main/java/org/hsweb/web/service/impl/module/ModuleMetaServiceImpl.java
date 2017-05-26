@@ -17,7 +17,7 @@ import java.util.function.Function;
 import static org.hsweb.web.bean.po.module.ModuleMeta.Property.*;
 
 /**
- * Created by zhouhao on 16-5-10.
+ * Created by shanbiao.jsb on 16-5-10.
  */
 @Service("moduleMetaService")
 public class ModuleMetaServiceImpl extends AbstractServiceImpl<ModuleMeta, String> implements ModuleMetaService {

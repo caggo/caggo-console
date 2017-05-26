@@ -29,7 +29,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 public class EasyOrmSqlBuilder {
 

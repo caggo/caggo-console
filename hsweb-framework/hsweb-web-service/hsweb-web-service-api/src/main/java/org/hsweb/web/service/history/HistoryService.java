@@ -4,7 +4,7 @@ import org.hsweb.web.bean.po.history.History;
 import org.hsweb.web.service.GenericService;
 
 /**
- * Created by zhouhao on 16-4-22.
+ * Created by shanbiao.jsb on 17-4-22.
  */
 public interface HistoryService extends GenericService<History, String> {
     /**

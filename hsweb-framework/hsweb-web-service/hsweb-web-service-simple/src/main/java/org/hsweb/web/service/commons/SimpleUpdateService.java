@@ -11,7 +11,7 @@ import org.hsweb.web.service.UpdateService;
 import java.util.List;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 public interface SimpleUpdateService<Po extends GenericPo<Pk>, Pk> extends UpdateService<Po> {
 

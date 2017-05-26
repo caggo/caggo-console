@@ -9,7 +9,7 @@ import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 
 /**
- * Created by zhouhao on 16-5-27.
+ * Created by shanbiao.jsb on 16-5-27.
  */
 public class RedisLock implements Lock {
 

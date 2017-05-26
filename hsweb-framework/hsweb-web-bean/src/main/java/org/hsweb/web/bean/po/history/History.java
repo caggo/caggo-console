@@ -8,7 +8,7 @@ import java.util.UUID;
 
 /**
  * 操作历史记录
- * Created by zhouhao on 16-4-22.
+ * Created by shanbiao.jsb on 17-4-22.
  */
 public class History extends GenericPo<String> {
 

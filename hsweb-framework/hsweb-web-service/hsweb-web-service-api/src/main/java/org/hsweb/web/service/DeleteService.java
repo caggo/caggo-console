@@ -6,7 +6,7 @@ import org.hsweb.web.dao.DeleteMapper;
 import org.hsweb.web.dao.GenericMapper;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 public interface DeleteService<Pk> {
     /**

@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 public interface SimpleQueryService<Po, Pk> extends QueryService<Po, Pk> {
     QueryMapper<Po, Pk> getQueryMapper();

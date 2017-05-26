@@ -2,7 +2,7 @@ package org.hsweb.web.service.system;
 
 /**
  * SQL执行过程
- * Created by zhouhao on 16-4-21.
+ * Created by shanbiao.jsb on 17-4-21.
  */
 public interface SqlExecuteProcess {
     /**

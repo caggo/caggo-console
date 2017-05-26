@@ -3,7 +3,7 @@ package org.hsweb.web.dao;
 import org.hsweb.web.bean.common.UpdateParam;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 public interface UpdateMapper<Po> {
     /**

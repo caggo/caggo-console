@@ -23,7 +23,7 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReadWriteLock;
 
 /**
- * Created by zhouhao on 16-5-13.
+ * Created by shanbiao.jsb on 16-5-13.
  */
 @Aspect
 public class AnnotationLockAopAdvice {

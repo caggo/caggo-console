@@ -6,7 +6,7 @@ import org.hsweb.web.dao.InsertMapper;
 import org.hsweb.web.service.InsertService;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 public interface SimpleInsertService<Po extends GenericPo<Pk>, Pk> extends InsertService<Po, Pk> {
 

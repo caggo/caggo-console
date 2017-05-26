@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by zhouhao on 16-5-14.
+ * Created by shanbiao.jsb on 16-5-14.
  */
 @Alias("jsonMapHandler")
 @MappedTypes({Map.class})

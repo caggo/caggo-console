@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by zhouhao on 16-5-26.
+ * Created by shanbiao.jsb on 16-5-26.
  */
 public class ThreadLocalUtils {
     private static final ThreadLocal<Map<String, Object>> local = ThreadLocal.withInitial(() -> new HashMap<>());

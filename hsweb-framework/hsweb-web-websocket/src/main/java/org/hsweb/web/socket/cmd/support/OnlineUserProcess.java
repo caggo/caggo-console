@@ -14,7 +14,7 @@ import java.util.Set;
 
 /**
  * 通过websocket推送 在线人数
- * Created by zhouhao on 16-6-2.
+ * Created by shanbiao.jsb on 16-6-2.
  */
 @Component
 public class OnlineUserProcess extends AbstractCmdProcessor implements HttpSessionManagerListener {

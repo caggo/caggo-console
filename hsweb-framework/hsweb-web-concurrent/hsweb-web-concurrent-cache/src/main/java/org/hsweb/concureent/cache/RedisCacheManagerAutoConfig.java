@@ -24,7 +24,7 @@ import redis.clients.jedis.Jedis;
 
 
 /**
- * Created by zhouhao on 16-4-26.
+ * Created by shanbiao.jsb on 17-4-26.
  */
 @EnableCaching
 @Configuration

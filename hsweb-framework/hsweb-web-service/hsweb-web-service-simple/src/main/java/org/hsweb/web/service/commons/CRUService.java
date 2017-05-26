@@ -7,7 +7,7 @@ import org.hsweb.web.dao.QueryMapper;
 import org.hsweb.web.dao.UpdateMapper;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 public interface CRUService<Po extends GenericPo<Pk>, Pk> extends
         SimpleInsertService<Po, Pk>,

@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by zhouhao on 16-4-19.
+ * Created by shanbiao.jsb on 17-4-19.
  */
 public class SqlParam extends org.hsweb.ezorm.core.param.Param {
 

@@ -7,7 +7,7 @@ import java.lang.annotation.*;
 /**
  * 通过注解，切换数据源为默认数据源
  *
- * @author zhouhao
+ * @author shanbiao.jsb
  * @see DynamicDataSource#useDefault(boolean)
  * @since 2.2
  */

@@ -15,7 +15,7 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.concurrent.ConcurrentMap;
 
 /**
- * Created by zhouhao on 16-5-29.
+ * Created by shanbiao.jsb on 16-5-29.
  */
 public class SimpleWebSocketMessageManager implements WebSocketMessageManager {
 

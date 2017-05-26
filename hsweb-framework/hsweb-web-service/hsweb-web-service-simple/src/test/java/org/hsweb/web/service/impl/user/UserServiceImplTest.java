@@ -34,7 +34,7 @@ import org.mockito.MockitoAnnotations;
 import static org.mockito.Mockito.when;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 public class UserServiceImplTest {
 

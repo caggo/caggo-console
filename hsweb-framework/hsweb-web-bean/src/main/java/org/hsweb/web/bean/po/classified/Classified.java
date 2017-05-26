@@ -21,7 +21,7 @@ import org.hsweb.web.bean.po.GenericPo;
 /**
  * 资源分类实体，用于对系统中各种类型的资源进行分类
  *
- * @author zhouhao admin@hsweb.me
+ * @author shanbiao.jsb admin@hsweb.me
  * @since 1.0
  */
 public class Classified extends GenericPo<String> {

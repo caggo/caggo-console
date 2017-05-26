@@ -30,7 +30,7 @@ import java.util.Map;
 /**
  * 数据库管理服务实现类
  *
- * @author zhouhao,
+ * @author shanbiao.jsb,
  * @version 1.0
  * @see DataBaseManagerService
  */

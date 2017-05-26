@@ -30,7 +30,7 @@ import java.sql.SQLException;
 import java.util.Properties;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  * @see com.atomikos.jdbc.AbstractDataSourceBean
  * @since 2.1
  */

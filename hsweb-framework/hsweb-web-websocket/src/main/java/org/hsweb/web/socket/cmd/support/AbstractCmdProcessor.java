@@ -11,7 +11,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.socket.WebSocketSession;
 
 /**
- * Created by zhouhao on 16-5-30.
+ * Created by shanbiao.jsb on 16-5-30.
  */
 public abstract class AbstractCmdProcessor implements CmdProcessor {
     protected Logger logger = LoggerFactory.getLogger(this.getClass());

@@ -10,7 +10,7 @@ import org.springframework.web.socket.config.annotation.WebSocketConfigurationSu
 import org.springframework.web.socket.config.annotation.WebSocketHandlerRegistry;
 
 /**
- * Created by zhouhao on 16-5-29.
+ * Created by shanbiao.jsb on 16-5-29.
  */
 @ComponentScan(basePackages = "org.hsweb.web.socket")
 @Configuration

@@ -30,7 +30,7 @@ import java.util.stream.Collectors;
  * <li>可设置不加载的配置{@link this#mapperLocationExcludes}</li>
  * </ul>
  *
- * @author zhouhao
+ * @author shanbiao.jsb
  * @see org.mybatis.spring.boot.autoconfigure.MybatisProperties
  * @since 2.1
  */

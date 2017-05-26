@@ -17,7 +17,7 @@
 package org.hsweb.web.oauth2.exception;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  * @TODO
  */
 public class AccessTimeoutException extends RuntimeException {

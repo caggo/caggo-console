@@ -3,7 +3,7 @@ package org.hsweb.web.core.exception;
 import org.hsweb.web.bean.validator.ValidateResults;
 
 /**
- * Created by zhouhao on 16-5-12.
+ * Created by shanbiao.jsb on 16-5-12.
  */
 public class ValidationException extends BusinessException {
     private ValidateResults results;

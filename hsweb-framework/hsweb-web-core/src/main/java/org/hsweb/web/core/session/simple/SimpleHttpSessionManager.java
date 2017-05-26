@@ -14,7 +14,7 @@ import java.util.concurrent.ConcurrentMap;
 import java.util.stream.Collectors;
 
 /**
- * Created by zhouhao on 16-5-27.
+ * Created by shanbiao.jsb on 16-5-27.
  */
 public class SimpleHttpSessionManager extends AbstractHttpSessionManager {
 

@@ -12,7 +12,7 @@ import org.springframework.data.redis.core.RedisTemplate;
 import javax.annotation.Resource;
 
 /**
- * Created by zhouhao on 16-5-27.
+ * Created by shanbiao.jsb on 16-5-27.
  */
 @Configuration
 @ConditionalOnBean(RedisTemplate.class)

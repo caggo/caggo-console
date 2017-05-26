@@ -1,7 +1,7 @@
 package org.hsweb.web.core.exception;
 
 /**
- * Created by zhouhao on 16-4-29.
+ * Created by shanbiao.jsb on 17-4-29.
  */
 public class NotFoundException extends BusinessException {
     public NotFoundException(String message) {

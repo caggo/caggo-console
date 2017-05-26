@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by zhouhao on 16-5-16.
+ * Created by shanbiao.jsb on 16-5-16.
  */
 @Component("dynamicFormAuthorizeValidator")
 public class DynamicFormAuthorizeValidatorConfiguration implements ExpressionScopeBean {

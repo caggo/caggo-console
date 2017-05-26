@@ -37,7 +37,7 @@ import java.util.stream.Collectors;
 /**
  * 模板配置定义控制器，继承自{@link GenericController<ModuleMeta, String>}
  *
- * @author zhouhao
+ * @author shanbiao.jsb
  * @since 1.0
  */
 @RestController

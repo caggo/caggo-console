@@ -5,7 +5,7 @@ import org.apache.ibatis.session.SqlSession;
 import org.mybatis.spring.SqlSessionTemplate;
 
 /**
- * Created by zhouhao on 16-6-3.
+ * Created by shanbiao.jsb on 16-6-3.
  */
 public class ResultMapsUtils {
     private static SqlSession sqlSession;

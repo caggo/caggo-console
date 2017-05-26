@@ -12,7 +12,7 @@ import java.util.LinkedHashSet;
 import java.util.Set;
 
 /**
- * Created by zhouhao on 16-4-28.
+ * Created by shanbiao.jsb on 17-4-28.
  */
 public class SimpleAuthorizeValidatorConfig implements AuthorizeValidatorConfig {
     protected Set<String> modules;

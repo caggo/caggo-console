@@ -7,7 +7,7 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReadWriteLock;
 
 /**
- * Created by zhouhao on 16-5-27.
+ * Created by shanbiao.jsb on 16-5-27.
  */
 public class RedisLockFactory extends DefaultLockFactory {
     private RedisTemplate redisTemplate;

@@ -11,7 +11,7 @@ import javax.annotation.Resource;
 import static org.hsweb.web.bean.po.history.History.Property;
 
 /**
- * Created by zhouhao on 16-4-22.
+ * Created by shanbiao.jsb on 17-4-22.
  */
 @Service("historyService")
 public class HistoryServiceImpl extends AbstractServiceImpl<History, String> implements HistoryService {

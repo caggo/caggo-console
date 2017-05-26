@@ -21,7 +21,7 @@ import javax.annotation.Resource;
 import java.util.Map;
 
 /**
- * Created by zhouhao on 16-6-29.
+ * Created by shanbiao.jsb on 16-6-29.
  */
 @Service("dynamicScriptExecuteService")
 public class DynamicScriptExecuteServiceImpl implements DynamicScriptExecuteService {

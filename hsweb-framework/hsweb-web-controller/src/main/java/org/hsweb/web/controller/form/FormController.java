@@ -39,7 +39,7 @@ import static org.hsweb.web.core.message.ResponseMessage.ok;
 /**
  * 动态表单控制器,用于管理动态表单
  *
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 @RestController
 @RequestMapping(value = "/form")

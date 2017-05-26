@@ -7,7 +7,7 @@ import org.hsweb.web.dao.GenericMapper;
 import java.util.List;
 
 /**
- * Created by zhouhao on 16-5-20.
+ * Created by shanbiao.jsb on 16-5-20.
  */
 public interface TemplateMapper extends GenericMapper<Template, String> {
     /**

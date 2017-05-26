@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.annotation.Resource;
 
 /**
- * Created by zhouhao on 16-5-23.
+ * Created by shanbiao.jsb on 16-5-23.
  */
 @RestController
 @RequestMapping("/template")

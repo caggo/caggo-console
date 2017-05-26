@@ -20,7 +20,7 @@ import java.util.Map;
 /**
  * mybatis 同一事务，同一个mapper，动态数据源切换支持
  *
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 public class DynamicSpringManagedTransaction implements Transaction {
 

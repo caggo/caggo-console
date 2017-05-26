@@ -6,7 +6,7 @@ import org.hsweb.web.bean.po.GenericPo;
 
 /**
  * 模块配置信息
- * Created by zhouhao on 16-5-10.
+ * Created by shanbiao.jsb on 16-5-10.
  */
 public class ModuleMeta extends GenericPo<String> {
 

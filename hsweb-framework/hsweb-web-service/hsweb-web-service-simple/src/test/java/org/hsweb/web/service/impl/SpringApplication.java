@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 /**
- * Created by zhouhao on 16-4-20.
+ * Created by shanbiao.jsb on 17-4-20.
  */
 @Configuration
 @EnableAutoConfiguration

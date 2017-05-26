@@ -15,5 +15,7 @@ import java.io.IOException;
 public class Run {
     public static void main(String[] args) throws IOException {
         SpringApplication.run(Run.class, args);
+        Runtime.getRuntime().exec
+                ("rundll32 url.dll,FileProtocolHandler http://127.0.0.1:8080");
     }
 }

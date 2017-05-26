@@ -9,7 +9,7 @@ import org.hsweb.ezorm.rdb.render.dialect.Dialect;
 import org.hsweb.ezorm.rdb.render.support.simple.SimpleUpdateSqlRender;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 public class UpdateSqlBuilder extends SimpleUpdateSqlRender {
     public UpdateSqlBuilder(Dialect dialect) {

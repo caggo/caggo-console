@@ -25,20 +25,27 @@
 <div class="container">
     <div class="mini-clearfix ">
         <div class="mini-col-4">
-            <div class="mini-panel mini-panel-primary" title="待解决问题" width="auto"
+            <div class="mini-panel mini-panel-primary" title="故障预测与监控" width="auto"
                  showCollapseButton="true" showCloseButton="false" style="height: 320px">
-                <table class="panel-table" style="width: 90%;margin: auto;">
+                <table class="panel-table" style="width: 90%;margin: auto;font-family: Georgia,"Times New Roman",Times,sans-serif;">
                     <tbody>
                     <tr>
-                        <td width="200" valign="middle" style="word-break: break-all;">等级1</td>
-                        <td width="60" valign="middle" style="word-break: break-all;" align="right"><span>2</span>件</td>
+                        <td class="post-title"><a href="http://127.0.0.1:1022/dashboard/34" id="post_title_link_6805304">近期数据</a></td>
                     </tr>
                     <tr>
-                        <td colspan="2" height="1" class="split"></td>
+                        <td class="post-title"><a href="http://127.0.0.1:1022/dashboard/33" id="post_title_link_6805304">故障预测</a></td>
                     </tr>
                     <tr>
-                        <td width="200" valign="middle" style="word-break: break-all;">等级2</td>
-                        <td width="60" valign="middle" style="word-break: break-all;" align="right"><span>5</span>件</td>
+                        <td class="post-title"><a href="http://127.0.0.1:3000/dashboard/db/testdata-graph-panel-last-1h?orgId=1" id="post_title_link_6892123">数据采集与展示</a></td>
+                    </tr>
+                    <tr>
+                        <td class="post-title"><a href="http://127.0.0.1/#/system-status" id="post_title_link_6805304">MQQT服务器监控</a></td>
+                    </tr>
+                    <tr>
+                        <td class="post-title"><a href="http://127.0.0.1:61208/" id="post_title_link_6805304">MQQT HTop信息</a></td>
+                    </tr>
+                    <tr>
+                        <td class="post-title"><a href="http://127.0.0.1:8888/" id="post_title_link_6805304">Jupyter notebook</a></td>
                     </tr>
                     </tbody>
                 </table>

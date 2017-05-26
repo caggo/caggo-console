@@ -1,7 +1,7 @@
 package org.hsweb.web.dao;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 public interface CRUMapper<Po, Pk> extends InsertMapper<Po>, QueryMapper<Po, Pk>, UpdateMapper<Po> {
 }

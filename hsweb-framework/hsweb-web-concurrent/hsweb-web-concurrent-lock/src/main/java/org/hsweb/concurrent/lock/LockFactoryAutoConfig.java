@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * Created by zhouhao on 16-4-27.
+ * Created by shanbiao.jsb on 17-4-27.
  */
 @Configuration
 @ImportAutoConfiguration(RedisLockFactoryAutoConfig.class)

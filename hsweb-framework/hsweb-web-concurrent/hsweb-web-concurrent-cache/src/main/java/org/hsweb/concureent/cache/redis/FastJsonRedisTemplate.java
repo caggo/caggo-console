@@ -8,7 +8,7 @@ import org.springframework.data.redis.serializer.RedisSerializer;
 import org.springframework.data.redis.serializer.StringRedisSerializer;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  * @TODO
  */
 public class FastJsonRedisTemplate extends RedisTemplate<String, Object> {

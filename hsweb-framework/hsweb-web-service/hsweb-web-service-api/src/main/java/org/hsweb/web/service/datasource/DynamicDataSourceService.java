@@ -19,7 +19,7 @@ package org.hsweb.web.service.datasource;
 import javax.sql.DataSource;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 public interface DynamicDataSourceService {
 

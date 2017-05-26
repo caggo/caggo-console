@@ -22,7 +22,7 @@ import javax.sql.DataSource;
 import java.sql.Connection;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 @Configuration
 @EnableConfigurationProperties(AppProperties.class)

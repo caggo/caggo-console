@@ -21,7 +21,7 @@ import org.springframework.cache.interceptor.KeyGenerator;
 import java.lang.reflect.Method;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  * @TODO
  */
 public class SimpleKeyGenerator implements KeyGenerator {

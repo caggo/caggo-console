@@ -25,7 +25,7 @@ import java.util.Set;
  *
  * @param <Po> PO类型
  * @param <PK> 主键类型
- * @author zhouhao
+ * @author shanbiao.jsb
  * @see GenericService
  * @since 1.0
  */

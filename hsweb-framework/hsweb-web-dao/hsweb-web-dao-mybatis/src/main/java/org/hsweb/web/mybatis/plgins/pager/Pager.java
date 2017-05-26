@@ -5,7 +5,7 @@ import org.hsweb.web.core.utils.ThreadLocalUtils;
 /**
  * 分页插件,通过此接口进行分页操作
  *
- * @author zhouhao
+ * @author shanbiao.jsb
  * @see PagerInterceptor
  */
 public interface Pager {

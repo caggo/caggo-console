@@ -34,7 +34,7 @@ import java.util.Collections;
 import java.util.Date;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 public class UserMapperTest extends AbstractTestCase {
 

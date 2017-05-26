@@ -8,7 +8,7 @@ import org.hsweb.web.service.DeleteService;
 import org.hsweb.web.service.GenericService;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 public interface SimpleDeleteService<Pk> extends DeleteService<Pk> {
     DeleteMapper getDeleteMapper();

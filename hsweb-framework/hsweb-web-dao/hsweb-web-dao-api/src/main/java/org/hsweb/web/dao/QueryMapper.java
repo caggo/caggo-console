@@ -5,7 +5,7 @@ import org.hsweb.web.bean.common.QueryParam;
 import java.util.List;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 public interface QueryMapper<Po, Pk>  {
     /**

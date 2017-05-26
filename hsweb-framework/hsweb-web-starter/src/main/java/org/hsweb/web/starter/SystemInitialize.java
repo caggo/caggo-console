@@ -29,7 +29,7 @@ import static org.hsweb.web.starter.SystemVersion.Property.*;
 
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 public class SystemInitialize implements InitializingBean {
     private static final Logger              logger       = LoggerFactory.getLogger(SystemInitialize.class);

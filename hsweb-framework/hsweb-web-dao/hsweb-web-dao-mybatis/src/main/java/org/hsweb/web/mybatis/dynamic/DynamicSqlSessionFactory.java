@@ -32,7 +32,7 @@ import java.sql.Connection;
 import java.sql.SQLException;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 public class DynamicSqlSessionFactory implements SqlSessionFactory {
     private final Configuration configuration;

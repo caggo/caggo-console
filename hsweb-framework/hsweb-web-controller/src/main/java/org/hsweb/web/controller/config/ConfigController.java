@@ -34,7 +34,7 @@ import java.util.Map;
 /**
  * 系统配置控制器.配置管理
  *
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 @RestController
 @RequestMapping(value = "/config")

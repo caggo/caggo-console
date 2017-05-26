@@ -29,7 +29,7 @@ import javax.annotation.Resource;
 /**
  * 系统模块(菜单)控制器,继承自{@link GenericController<Module, String>}
  *
- * @author zhouhao
+ * @author shanbiao.jsb
  * @since 1.0
  */
 @RestController

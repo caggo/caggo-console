@@ -3,7 +3,7 @@ package org.hsweb.web.starter;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 @ConfigurationProperties(prefix = "hsweb.app")
 public class AppProperties {

@@ -1,7 +1,7 @@
 package org.hsweb.web.service;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 public interface InsertService<Po,Pk> {
 

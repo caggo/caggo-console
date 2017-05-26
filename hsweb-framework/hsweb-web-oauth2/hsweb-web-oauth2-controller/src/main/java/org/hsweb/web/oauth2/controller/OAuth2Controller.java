@@ -45,7 +45,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.util.Date;
 
 /**
- * @author zhouhao
+ * @author shanbiao.jsb
  */
 @RestController
 @RequestMapping("/oauth2")
